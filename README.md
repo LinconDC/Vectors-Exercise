@@ -1,2 +1,1 @@
-# EcerciseVectors
-New exercises on vectors
+# Exercises about vectors in java
